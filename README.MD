@@ -19,5 +19,7 @@
 numpy==1.14.0
 opencv-contrib-python== 4.1.0
 opencv-python== 4.1.0
-Pillow
+
+(Pillow)
+(Tkniter)
 
