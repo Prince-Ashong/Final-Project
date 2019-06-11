@@ -1,8 +1,8 @@
-# Face recognition on OpenCV 3.4.0 
+# Face recognition on  OpenCV(4.1.0)
 
-The full tutorial can be found on the link: http://www.python36.com/face-recognition-using-opencv-part-1/
 
-## Requirements can be found in the file requirements.txt
+
+
 
 ## Files
 
@@ -17,7 +17,7 @@ The full tutorial can be found on the link: http://www.python36.com/face-recogni
 **Requirements**
 
 numpy==1.14.0
-opencv-contrib-python==3.4.0.12
-opencv-python==3.4.0.12
-Pillow==5.0.0
+opencv-contrib-python== 4.1.0
+opencv-python== 4.1.0
+Pillow
 
